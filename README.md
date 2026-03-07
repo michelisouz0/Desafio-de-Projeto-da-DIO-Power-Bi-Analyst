@@ -3,6 +3,8 @@ Desafio de Projeto da DIO | Formação Power BI Analyst
 
 #### Link do Projeto Relatório de Vendas e Lucro: https://app.powerbi.com/groups/me/reports/0051d968-1fd1-4498-a1b4-d7c43bb01b9f/c3dafd29988e3972de9a?experience=power-bi
 
+#### Link do Repositório de Referência: https://github.com/julianazanelatto/power_bi_analyst 
+
 ## Objetivo
 Análise detalhada de vendas e lucro para insights financeiros.
 
