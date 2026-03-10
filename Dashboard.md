@@ -19,7 +19,7 @@ O dashboard promove uma análise detalhada de vendas e lucros. Possui botões no
 ## Tecnologias 
 - Power BI
 
-## Páginas do relatório
+## Páginas do dashboard
 
 <img width="1292" height="731" alt="pág  relatório de vendas dashboard" src="https://github.com/user-attachments/assets/58b823f7-8883-4f17-8a37-e494268494d1" />
 <img width="1288" height="727" alt="pág  relatório de lucro dashboard" src="https://github.com/user-attachments/assets/dcb9114f-6215-43c9-b7bb-476fa4e519ec" />
