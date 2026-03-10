@@ -38,4 +38,17 @@ Oferece uma visão consolidada do desempenho comercial e financeiro, exibindo o 
 
 <img width="1278" height="712" alt="Pág  2 Relatório de Vendas Considerando Países e Lucro" src="https://github.com/user-attachments/assets/4ef12d09-4cd2-47b5-87ef-f8fcd8f381e0" />
 
+## Página 03
+
+### Descrição
+Apresenta uma análise abrangente da distribuição de lucro, vendas e unidades vendidas por países e segmentos. Ele exibe um gráfico de pizza que detalha o lucro por segmento de mercado e dois mapas que mostram vendas/unidades vendidas e lucro por país. O layout permite visualizar o desempenho financeiro e comercial de forma geográfica e segmentada, facilitando insights sobre concentração de resultados.
+
+### Funcionalidades
+- Visualização do lucro dividido por segmentos (Government, Small Business, Channel Partners, Midmarket e Enterprise);
+- Análise de vendas e unidades vendidas por país;
+- Mapeamento do lucro por país, destacando regiões de maior retorno;
+- Possibilidade de comparar desempenho entre segmentos e regiões geográficas.
+
+<img width="1268" height="711" alt="Pág  3 Distribuição de Lucro, Vendas e Unidades vendidas" src="https://github.com/user-attachments/assets/8233b7ad-7488-40fb-8deb-30e163109690" />
+
 
