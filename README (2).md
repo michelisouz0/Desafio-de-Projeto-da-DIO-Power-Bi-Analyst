@@ -9,7 +9,7 @@ Desafio de Projeto da DIO | Formação Power BI Analyst
 Análise detalhada de vendas e lucro para insights financeiros.
 
 ## Descrição 
-O relatório promove uma análise detalhada de vendas e lucros. Navegue pelo relatório usando os botões no canto superior direito e interaja com os gráficos para insights específicos. 
+O relatório promove uma análise detalhada de vendas e lucros. Possui botões no canto superior direito para navegar pelas páginas do relatório e é possível interajir com os gráficos para insights específicos. 
 
 ## Funcionalidades
 - **Relatório de Vendas**: Análise de vendas mensais, por produto e por país.
