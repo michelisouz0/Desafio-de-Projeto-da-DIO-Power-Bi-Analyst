@@ -9,7 +9,7 @@ Desafio de Projeto da DIO | Formação Power BI Analyst
 Análise detalhada de vendas e lucro para insights financeiros.
 
 ## Descrição 
-O relatório financeiro promove uma análise detalhada de vendas e lucros, com visões anuais, mensais, semestrais e trimestrais. Possui botões no canto superior direito para navegar pelas páginas do relatório e é possível interajir com os gráficos para insights específicos. 
+O relatório financeiro promove uma análise detalhada de vendas e lucros, com visões anuais, mensais, semestrais e trimestrais. Possui botões no canto superior direito para navegar pelas páginas do relatório e é possível interagir com os gráficos para insights específicos. 
 
 ## Funcionalidades
 - Análise por período (anual, mensal, semestral, trimestral).
