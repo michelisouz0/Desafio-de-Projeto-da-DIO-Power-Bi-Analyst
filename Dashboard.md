@@ -1,7 +1,7 @@
 # Dashboard Gerencial para Tomada de Decisões Com Power BI
 Desafio de Projeto da DIO | Formação Power BI Analyst
 
-#### Link do Projeto Dashboard: https://app.powerbi.com/groups/me/reports/b87dfa7f-bb33-4d2b-8bfb-1401076c86fd/c3dafd29988e3972de9a?experience=power-bi&bookmarkGuid=647e26fa5ba23b30c7bb
+#### Link do Projeto Dashboard: https://app.powerbi.com/groups/me/reports/b87dfa7f-bb33-4d2b-8bfb-1401076c86fd?ctid=f398df9c-fd0c-4829-a003-c770a1c4a063&pbi_source=linkShare
 
 #### Link do Repositório de Referência: https://github.com/julianazanelatto/power_bi_analyst 
 
