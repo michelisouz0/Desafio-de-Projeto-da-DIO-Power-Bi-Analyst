@@ -11,8 +11,18 @@ Análise detalhada de vendas e lucro para insights financeiros.
 ## Tecnologias 
 - Power BI
 
-## Páginas do dashboard:
+## Página 01 do Dashboard
 
-### Página 1
+### Descrição
+O dashboard apresenta um relatório de vendas considerando produtos e segmentos. Inclui gráficos interativos que exibem valores de vendas e média de preço de venda. Há um filtro à esquerda para selecionar ano e mês, possibilitando insights específicos sobre o desempenho das vendas.
+
+### Funcionalidades
+- Análise de vendas por produto com valores totais (gráfico de pizza);
+- Visualização da média de preço de venda por produto (gráfico de linha);
+- Análise de vendas por mês e segmento (gráfico de barras);
+- Filtros por ano e mês para detalhamento das informações.
+
+<img width="1282" height="715" alt="Pág  1 Relatório de Vendas Considerando por Produtos" src="https://github.com/user-attachments/assets/309d116d-3056-4f77-9db9-0649052eb910" />
+
 
 
