@@ -1,7 +1,7 @@
 # Relatório Dinâmico com Parâmetros
 Desafio de Projeto da DIO | Formação Power BI Analyst
 
-#### Link do Projeto Relatório Dinâmico com Parâmetros: 
+#### Link do Projeto: https://app.powerbi.com/groups/me/reports/28535f9c-5bbb-4ffe-b3a6-38c10c572738?ctid=f398df9c-fd0c-4829-a003-c770a1c4a063&pbi_source=linkShare
 
 #### Link do Repositório de Referência: https://github.com/julianazanelatto/power_bi_analyst 
 
