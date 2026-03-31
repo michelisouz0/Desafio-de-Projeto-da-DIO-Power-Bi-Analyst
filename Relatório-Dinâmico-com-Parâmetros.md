@@ -12,7 +12,7 @@ Desafio de Projeto da DIO | Formação Power BI Analyst
 Relatório de vendas com detalhamento de lucro e análises com parâmetros com base em categorias e em valores específicos.
 
 ## Descrição 
-O relatório promove uma análise detalhada de vendas e lucros, com visões anuais, mensais, semestrais e trimestrais. Possui botões no canto superior direito para navegar pelas páginas do relatório e é possível interagir com os gráficos para insights específicos. 
+O relatório promove uma análise detalhada de vendas e lucros, com visões anuais, mensais, semestrais e trimestrais. Possui botões no canto superior direito para navegar pelas páginas do relatório e é possível interagir com os gráficos para obter insights.
 
 ## Funcionalidades
 - Análise por período (anual, mensal, semestral, trimestral);
@@ -24,7 +24,13 @@ O relatório promove uma análise detalhada de vendas e lucros, com visões anua
 ## Tecnologias e linguagem
 - Power BI e DAX
 
-## Vídeo do relatório
+## Visualização do relatório
 https://github.com/user-attachments/assets/46f1ebec-5555-408e-be6d-aa8539104ac9
+https://github.com/user-attachments/assets/9e3311c4-7200-42e0-a3aa-06980b9c7d49
+https://github.com/user-attachments/assets/aea6f768-421f-48c7-b343-453a3509aad0
+https://github.com/user-attachments/assets/eaf9d379-eda2-4c04-92bd-3734df124ff9
+
+
+
 
 
