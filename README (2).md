@@ -1,7 +1,7 @@
 # Relatório Gerencial de Vendas e Lucro Detalhado
 Desafio de Projeto da DIO | Formação Power BI Analyst
 
-#### Link do Projeto Relatório: https://app.powerbi.com/groups/me/reports/02f7f2bc-cd3b-4573-9193-ffd39f21e4fb?ctid=f398df9c-fd0c-4829-a003-c770a1c4a063&pbi_source=linkShare
+#### Link do Projeto Relatório: https://app.powerbi.com/groups/me/reports/13334532-9f87-411f-a0c5-cdd550f55eac?ctid=f398df9c-fd0c-4829-a003-c770a1c4a063&pbi_source=linkShare
 
 #### Link do Repositório de Referência: https://github.com/julianazanelatto/power_bi_analyst 
 
