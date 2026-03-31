@@ -1,9 +1,11 @@
 # Relatório Dinâmico com Parâmetros
 Desafio de Projeto da DIO | Formação Power BI Analyst
 
-#### Link do Projeto Relatório Financeiro: 
+#### Link do Projeto Relatório Dinâmico com Parâmetros: 
 
 #### Link do Repositório de Referência: https://github.com/julianazanelatto/power_bi_analyst 
+
+### ⚠️ Visualização do relatório em vídeo abaixo das demais informações.
 
 ## Objetivo
 Relatório de vendas com detalhamento de lucro e análises com parâmetros com base em categorias e em valores específicos.
@@ -21,4 +23,4 @@ O relatório promove uma análise detalhada de vendas e lucros, com visões anua
 ## Tecnologias e linguagem
 - Power BI e DAX
 
-## Páginas do relatório
+## Vídeo do relatório
