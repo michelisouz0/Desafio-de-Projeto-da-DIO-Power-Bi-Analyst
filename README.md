@@ -13,7 +13,7 @@ O relatório financeiro promove uma análise detalhada de vendas e lucros, com v
 
 ## Funcionalidades
 - Análise por período (anual, mensal, semestral, trimestral);
-- Gráficos interativos para vendas e lucro;
+- Gráficos interativos para análise de vendas e lucro;
 - Filtros por produto, região e segmento;
 - Insights automáticos de desempenho.
 
