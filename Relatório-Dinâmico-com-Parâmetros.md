@@ -5,7 +5,7 @@ Desafio de Projeto da DIO | Formação Power BI Analyst
 
 #### Link do Repositório de Referência: https://github.com/julianazanelatto/power_bi_analyst 
 
-#### ⚠️ Visualização do relatório em vídeo abaixo das demais informações.
+#### ⚠️ Visualizações do relatório em vídeo abaixo das demais informações.
 
 
 ## Objetivo
@@ -25,3 +25,6 @@ O relatório promove uma análise detalhada de vendas e lucros, com visões anua
 - Power BI e DAX
 
 ## Vídeo do relatório
+https://github.com/user-attachments/assets/46f1ebec-5555-408e-be6d-aa8539104ac9
+
+
